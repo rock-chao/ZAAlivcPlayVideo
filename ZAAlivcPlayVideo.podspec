@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 阿里点播播放器点播播放器点播播放器点播播放器点播播放器
                        DESC
 
-  s.homepage         = 'https://github.com/iOS-Hades/ZAAlivcPlayVideo'
+  s.homepage         = 'https://github.com/rock-chao/ZAAlivcPlayVideo'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'iOS-Hades' => '2319587028@qq.com' }
-  s.source           = { :git => 'https://github.com/iOS-Hades/ZAAlivcPlayVideo.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/rock-chao/ZAAlivcPlayVideo.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
